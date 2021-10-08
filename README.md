@@ -5,4 +5,6 @@ Beach Resort app using:
   - react icons
   - styled components
   - contentful
+
+
 https://christouu.github.io/beach-resort/
