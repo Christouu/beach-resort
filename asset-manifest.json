@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/beach-resort/static/css/main.41fb2de3.chunk.css",
+    "main.js": "/beach-resort/static/js/main.fc094c25.chunk.js",
+    "main.js.map": "/beach-resort/static/js/main.fc094c25.chunk.js.map",
+    "runtime-main.js": "/beach-resort/static/js/runtime-main.5af40b34.js",
+    "runtime-main.js.map": "/beach-resort/static/js/runtime-main.5af40b34.js.map",
+    "static/js/2.c85dac69.chunk.js": "/beach-resort/static/js/2.c85dac69.chunk.js",
+    "static/js/2.c85dac69.chunk.js.map": "/beach-resort/static/js/2.c85dac69.chunk.js.map",
+    "index.html": "/beach-resort/index.html",
+    "static/css/main.41fb2de3.chunk.css.map": "/beach-resort/static/css/main.41fb2de3.chunk.css.map",
+    "static/js/2.c85dac69.chunk.js.LICENSE.txt": "/beach-resort/static/js/2.c85dac69.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/beach-resort/static/media/room-2.48c60181.jpeg",
+    "static/media/loading-arrow.dd29210f.gif": "/beach-resort/static/media/loading-arrow.dd29210f.gif",
+    "static/media/logo.87947b58.svg": "/beach-resort/static/media/logo.87947b58.svg",
+    "static/media/room-1.05b90599.jpeg": "/beach-resort/static/media/room-1.05b90599.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5af40b34.js",
+    "static/js/2.c85dac69.chunk.js",
+    "static/css/main.41fb2de3.chunk.css",
+    "static/js/main.fc094c25.chunk.js"
+  ]
+}
